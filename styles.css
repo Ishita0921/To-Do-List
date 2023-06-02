@@ -1,0 +1,40 @@
+.navbar {
+    text-align: center;
+    margin: 0px;
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 50px;
+}
+
+.navbar a {
+    font-size: 2rem;
+    margin-left: 20px;
+}
+
+.input-group {
+    margin: 0 auto 0 auto;
+    width: 70%;
+    height: 50px;
+}
+
+.table {
+    width: 70%;
+    margin: 0 auto 0 auto;
+    margin-top: 70px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.table button {
+    margin-right: 20px;
+    appearance: none;
+    border: none;
+    outline: none;
+    background: none;
+}
+
+th,
+td {
+    text-align: center;
+    padding: 5px;
+    width: 150px;
+}
